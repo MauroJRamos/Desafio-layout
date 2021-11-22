@@ -19,6 +19,7 @@
 
 .div-main-menu{
   padding-left: 0px;
+  justify-content: space-around ;
 }
 
 .main-menu {
@@ -35,6 +36,7 @@
 
 .main-menu a:hover {
   color: #00285f;
+  font-weight: bold;
 }
 .main-menu a.active {
   color: #00285f;
