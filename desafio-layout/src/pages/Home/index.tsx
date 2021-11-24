@@ -2,6 +2,7 @@ import './styles.css';
 import MainImage from 'assets/images/car-header.png';
 import ButtonIcon from 'components/ButtonIcon';
 
+
 const Home = () => {
   return (
     <div className="home-container">

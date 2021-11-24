@@ -1,0 +1,43 @@
+.button1 {
+  border-radius: 5px;
+  width: 260px;
+  height: 40px;
+  background-color: #00285f;
+}
+
+.button1 h5 {
+  color: #fff;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: auto;
+}
+
+@media (min-width: 375px) {
+  .button1 {
+    width: 310px;
+  }
+}
+
+@media (min-width: 425px) {
+  .button1 {
+    width: 355px;
+  }
+}
+
+@media (min-width: 575px) {
+  .button1 {
+    width: 220px;
+  }
+}
+
+@media (min-width: 768px) {
+  .button1 {
+    width: 310px;
+  }
+}
+
+@media (min-width: 992px) {
+  .button1 {
+    width: 265px;
+  }
+}

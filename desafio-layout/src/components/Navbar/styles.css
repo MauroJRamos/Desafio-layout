@@ -4,6 +4,21 @@
   font-size: 24px;
 }
 
+.main-nav button{
+ background-color: #F78B00;
+ color: #00285f;
+ border-color: #00285f;
+ 
+}
+
+.navbar-toggler-icon, .navbar-default, .navbar-toggle, .icon-bar {
+
+background-color: #00285f;
+color: #00285f;
+}
+
+
+
 .main-nav h4 {
   font-size: 30px;
 }

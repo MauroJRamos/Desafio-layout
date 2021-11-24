@@ -1,0 +1,93 @@
+.container-main {
+  width: 290px;
+  height: 86px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+.input {
+  height: 40px;
+  border-radius: 5px 0px 0px 5px;
+}
+
+.button {
+  border-radius: 5px;
+  width:  74px;
+  height: 40px;
+  background-color: #00285f;
+}
+
+.button h6 {
+  color: #fff;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: auto;
+}
+
+@media (min-width: 375px) {
+  .button {
+    width: 74px;
+  }
+
+  .container-main {
+    width: 350px;
+  }
+}
+
+@media (min-width: 425px) {
+  .button {
+    width: 174px;
+  }
+
+  .container-main {
+    width: 400px;
+    height: 123px;
+  }
+  
+}
+
+@media (min-width: 575px) {
+  .container-main {
+    width: 520px;
+    height: 123px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container-main {
+    width: 700px;
+    height: 123px;
+  }
+}
+
+@media (min-width: 992px) {
+  .button {
+    width: 174px;
+  }
+
+  .container-main {
+    width: 940px;
+    height: 123px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .button {
+    width: 174px;
+  }
+
+  .container-main {
+    width: 1050px;
+    height: 123px;
+  }
+}
+
+@media (min-width: 1400px) {
+
+  .container-main {
+    width: 1175px;
+    height: 123px;
+  }
+}
