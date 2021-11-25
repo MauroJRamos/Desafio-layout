@@ -10,4 +10,5 @@ https://www.figma.com/file/H1SC2bo3Zaycm3mJxkkMC4/bds-desafio-layout?node-id=1%3
 ## Autor
 
 Mauro Jose Ramos.
+
 Linkedin: https://www.linkedin.com/in/mauro-ramos-70758b56/
