@@ -4,7 +4,7 @@ Neste desafio foram utilizados as tecnologias do React, CSS e TypeScript
 
 ## Informações
 
-O desafio consiste em implementar todos o breakpoints propostos pelo layout em figma.
+O desafio consiste em implementar todos o breakpoints propostos pelo layout abaixo.
 https://www.figma.com/file/H1SC2bo3Zaycm3mJxkkMC4/bds-desafio-layout?node-id=1%3A4
 
 ## Autor
