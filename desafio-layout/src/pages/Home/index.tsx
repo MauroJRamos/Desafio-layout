@@ -1,6 +1,7 @@
 import './styles.css';
 import MainImage from 'assets/images/car-header.png';
 import ButtonIcon from 'components/ButtonIcon';
+import { NavLink } from 'react-router-dom';
 
 
 const Home = () => {
@@ -16,9 +17,9 @@ const Home = () => {
         </div>
       </div>
       <div className="home-container-botton">
-        <a href="link" className="active">
+      <NavLink to="/products" activeClassName="active">
           <ButtonIcon />
-        </a>
+        </NavLink>
         <p>Comece agora a navegar</p>
       </div>
     </div>
