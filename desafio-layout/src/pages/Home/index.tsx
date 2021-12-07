@@ -7,7 +7,7 @@ import { NavLink } from 'react-router-dom';
 const Home = () => {
   return (
     <div className="home-container">
-      <div className="home-image-container">
+      <div className=" home-image-container">
         <img src={MainImage} alt="ImageHome" />
         <div className="home-text-container">
           <h1>O carro perfeito para você</h1>
