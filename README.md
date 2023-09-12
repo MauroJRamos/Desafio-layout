@@ -12,7 +12,7 @@ https://www.figma.com/file/H1SC2bo3Zaycm3mJxkkMC4/bds-desafio-layout?node-id=1%3
 
 ## Link
 
-https://verdant-melba-8ae7e8.netlify.app/products
+verdant-melba-8ae7e8.netlify.app/products
 
 
 ## Autor
